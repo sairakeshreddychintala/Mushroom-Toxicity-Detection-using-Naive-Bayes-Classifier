@@ -19,7 +19,7 @@ This dataset was a great fit because all features are categorical and the proble
 
 ## Dataset
 
-UCI Mushroom Dataset — 8124 mushrooms, 22 features like odor, cap shape, gill size, bruises etc.
+[UCI Mushroom Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classification/data) — 8124 mushrooms, 22 features like odor, cap shape, gill size, bruises etc.
 
 The target column is `class`:
 - `e` → edible
